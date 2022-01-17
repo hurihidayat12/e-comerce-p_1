@@ -11,11 +11,9 @@
     height: 58px;
     font-size: 20px;
     padding-left: 100px;
-    align-items: center;
-   
-
-
+    padding-top: 30px;
 }
+
 .logo {
     padding-right: 50px;
     padding-left: 86px;
@@ -28,8 +26,6 @@ nav ul {
     margin-right: 60px;
     list-style: none;
 
-    
-    
 }
 
 nav h4{
@@ -61,8 +57,9 @@ nav a{
 
 .avatar {
     padding-left: 30px;
-    width: 50px;
-    height: 50px;
+    avatar: 10%
+    width: 50%;
+    height: 50%;
     align-items: center;
     cursor:pointer;
  
@@ -86,7 +83,7 @@ body {
     display:flex;
     box-sizing: border-box;
     /* background-color: white; */
-    margin: 46px auto;
+    margin: 4% auto;
     max-width: 78%;
 
 }
@@ -174,7 +171,7 @@ body {
 }
 
 h3{
-    margin-top: 23px;
+    margin-top: 10px;
     color: rgb(78, 78, 78);
 }
 
@@ -197,8 +194,8 @@ h3{
 
 .btn-plus img{
     border-radius: 8px;
-    width: 27px;
-    height: 16px;
+    width: 20px;
+    height: 15px;
     border-radius: 15px;
   
     
@@ -215,9 +212,8 @@ h3{
 
 .btn-minus img{
     border-radius: 8px;
-    width: 27px;
-    height: 7px;
-  
+    width: 19px;
+    height: 5px;
     
 }
 
